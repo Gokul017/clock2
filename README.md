@@ -1,2 +1,2 @@
-# clock2
+# clock
 Created with CodeSandbox
